@@ -47,8 +47,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![WhatsApp Image 2024-12-05 at 13 38 09_c265613f](https://github.com/user-attachments/assets/470fcc3f-6302-4b80-a143-f5cf938df8d4)
+
+
+### Name:Tharun Kumar V
+### Register Number:24000459
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
